@@ -1,3 +1,3 @@
 FROM prom/prometheus
-ADD prometheus.conf /etc/prometheus/
+ADD prometheus.yml /etc/prometheus/
 
